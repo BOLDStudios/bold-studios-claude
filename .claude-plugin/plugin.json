@@ -1,0 +1,24 @@
+{
+  "name": "bold-studios",
+  "displayName": "BOLD Studios",
+  "version": "1.0.0",
+  "description": "Run your BOLD Studios account from Claude: email marketing, e-signatures, booking calendars, website edits, tracked links and QR codes, ad campaigns, referral programs, transcripts and project updates, with skills that know how each product works and what each action costs.",
+  "author": {
+    "name": "BOLD Studios",
+    "url": "https://boldstudios.io"
+  },
+  "homepage": "https://boldstudios.io/developers",
+  "repository": "https://github.com/BOLDStudios/bold-studios-claude",
+  "license": "MIT",
+  "keywords": [
+    "bold-studios",
+    "email-marketing",
+    "e-signature",
+    "scheduling",
+    "website",
+    "qr-codes",
+    "advertising",
+    "referrals",
+    "transcription"
+  ]
+}
