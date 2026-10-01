@@ -41,7 +41,7 @@ The plugin contains skills (text instructions) and one connector reference. It r
 - The connector talks only to `https://boldstudios.io/api/v1/mcp` over HTTPS, and only after you sign in and approve access.
 - When Claude uses a BOLD Studios tool, it sends that tool's inputs (for example a contact's email, a document to sign, or a link destination) to your BOLD Studios account, and receives the result.
 - Every tool acts on your own account only. Personal details in results are limited to what the action needs.
-- Some actions cost a small amount from your BOLD balance, charged only when they succeed. Prices are listed in the getting-started skill and at https://boldstudios.io/developers.
+- Some actions cost a small amount from your BOLD balance, charged only when they succeed. Prices are listed in the getting-started skill and on the [developers page](https://boldstudios.io/developers).
 - Actions that send, publish, delete or void something are presented to you for approval first.
 
 ## Privacy
@@ -50,6 +50,6 @@ BOLD Studios handles your data under its [privacy policy](https://boldstudios.io
 
 ## Support
 
-Questions or problems: https://boldstudios.io/contact. Developer documentation: https://boldstudios.io/developers.
+Questions or problems: [boldstudios.io/contact](https://boldstudios.io/contact). Developer documentation: [boldstudios.io/developers](https://boldstudios.io/developers).
 
 Made by BOLD Studios.
