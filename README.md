@@ -9,7 +9,6 @@ Run your BOLD Studios account from a conversation with Claude. This plugin conne
 - **Scheduling (BOLD Calendar):** find real open times, take and cancel bookings, and put events on a calendar.
 - **Website edits:** change the editable text on a site built by BOLD Studios, preview drafts, publish, and roll back.
 - **Tracked links and QR codes:** create one tracked link per placement and compare scans.
-- **Ad campaigns (BOLD Promote):** plan a campaign before spending anything, create it, read daily results, and send conversion events.
 - **Referral programs (BOLD Refer):** set up a program, add partners with their own links, record sales, and see what is owed.
 - **Transcripts:** transcribe recordings and turn them into show notes, quotes, clips and captions.
 - **Project updates, embeds and publishing:** announce updates to subscribers, manage embeds, and review social posts and engagement.
@@ -24,7 +23,6 @@ Run your BOLD Studios account from a conversation with Claude. This plugin conne
 | `scheduling` | Calendars, open times and bookings |
 | `website-edits` | Draft, publish and roll back site content |
 | `tracked-links` | Short links and QR codes with scan stats |
-| `ad-campaigns` | BOLD Promote planning and reporting |
 | `referral-programs` | BOLD Refer programs, partners and payouts due |
 | `transcripts` | Transcription and content repurposing |
 | `project-updates-and-embeds` | Updates, embeds and social publishing |

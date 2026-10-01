@@ -5,7 +5,7 @@ description: Orient in a BOLD Studios account. Use when the user first connects 
 
 # Getting started with BOLD Studios
 
-BOLD Studios is one account for email marketing (BOLD Send), e-signatures (BOLD Sign), booking calendars, website editing, tracked links and QR codes, ad campaigns (BOLD Promote), referral programs (BOLD Refer), transcripts, embeds and project updates. Every tool acts on the signed-in person's own account and nothing else.
+BOLD Studios is one account for email marketing (BOLD Send), e-signatures (BOLD Sign), booking calendars, website editing, tracked links and QR codes, referral programs (BOLD Refer), transcripts, embeds and project updates. Every tool acts on the signed-in person's own account and nothing else.
 
 ## First moves in a new conversation
 
