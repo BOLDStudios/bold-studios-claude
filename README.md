@@ -46,7 +46,7 @@ The plugin contains skills (text instructions) and one connector reference. It r
 
 ## Privacy
 
-BOLD Studios handles your data under its privacy policy: https://boldstudios.io/legal/privacy. Terms of service: https://boldstudios.io/legal/terms. The plugin itself stores nothing.
+BOLD Studios handles your data under its [privacy policy](https://boldstudios.io/legal/privacy). Terms of service: [boldstudios.io/legal/terms](https://boldstudios.io/legal/terms). The plugin itself stores nothing.
 
 ## Support
 

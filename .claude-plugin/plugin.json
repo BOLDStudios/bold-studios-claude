@@ -1,7 +1,7 @@
 {
   "name": "bold-studios",
   "displayName": "BOLD Studios",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Run your BOLD Studios account from Claude: email marketing, e-signatures, booking calendars, website edits, tracked links and QR codes, referral programs, transcripts and project updates, with skills that know how each product works and what each action costs.",
   "author": {
     "name": "BOLD Studios",
@@ -19,5 +19,7 @@
     "qr-codes",
     "referrals",
     "transcription"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://boldstudios.io/legal/privacy"
 }
