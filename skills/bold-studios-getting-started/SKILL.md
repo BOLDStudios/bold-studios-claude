@@ -37,7 +37,7 @@ Before an action that will cost more than about $1.00 in one go (for example tra
 
 ## Reading errors
 
-- Out of credit: tell the user their balance is too low for this action, give the price, and point them to top up at https://boldstudios.io/developers. Do not retry.
+- Out of credit: tell the user their balance is too low for this action, give the price, and point them to top up on https://boldstudios.io/developers (Credits). Do not retry.
 - Not found or not yours: the item belongs to another account or does not exist. Ask the user which one they meant; list their items with the matching list tool.
 - Validation errors name the field that is wrong. Fix that field and retry once.
 - Rate limited: wait for the time the error gives, then retry once.

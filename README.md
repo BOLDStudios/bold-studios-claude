@@ -32,7 +32,7 @@ Run your BOLD Studios account from a conversation with Claude. This plugin conne
 - **Claude (web, desktop, mobile, Cowork):** add BOLD Studios from the directory under Customize, then connect the BOLD Studios connector on the plugin's Connectors tab and sign in with your BOLD Studios account.
 - **Claude Code:** install the plugin from the directory with `/plugin`, then run `/mcp` to sign in.
 
-You need a BOLD Studios account. Create one free at https://boldstudios.io.
+You need a BOLD Studios account. Create one free at [boldstudios.io](https://boldstudios.io).
 
 ## What this plugin connects to and sends
 
